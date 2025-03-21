@@ -4,6 +4,7 @@ Brotli==1.1.0
 click==8.1.8
 colorama==0.4.6
 Django==3.2.13
+django-cors-headers==4.1.0
 django-environ==0.7.0
 graphene==2.1.9
 graphene-django==2.15.0
